@@ -1,0 +1,154 @@
+{
+    "productTypes": [
+        {
+            "name": "Planes",
+            "product": [
+                {
+                    "name": "Cessna 152",
+                    "total": "3032"
+                },
+                {
+                    "name": "PA 28",
+                    "total": "3232"
+                },
+                {
+                    "name": "Aerotrek A220 ",
+                    "total": "5032"
+                },
+                {
+                    "name": "Piper Seneca III",
+                    "total": "9032"
+                },
+                {
+                    "name": "EA-300SHP",
+                    "total": "63032"
+                }
+            ]
+        },
+        {
+            "name": "Flowers",
+            "product": [
+                {
+                    "name": "Rose",
+                    "total": "323032"
+                },
+                {
+                    "name": "Belly",
+                    "total": "723032"
+                },
+                {
+                    "name": "Lotus",
+                    "total": "623032"
+                },
+                {
+                    "name": "Bluebell",
+                    "total": "123032"
+                },
+                {
+                    "name": "Sunflower",
+                    "total": "32032"
+                }
+            ]
+        },
+        {
+            "name": "Drinks",
+            "product": [
+                {
+                    "name": "Wine",
+                    "total": "923032"
+                },
+                {
+                    "name": "Cofee",
+                    "total": "823032"
+                },
+                {
+                    "name": "Ice Tea",
+                    "total": "253032"
+                },
+                {
+                    "name": "Hot Chocolate",
+                    "total": "423032"
+                },
+                {
+                    "name": "Beer",
+                    "total": "33032"
+                }
+            ]
+        },
+        {
+            "name": "Foods",
+            "product": [
+                {
+                    "name": "Sandwitch",
+                    "total": "73032"
+                },
+                {
+                    "name": "Bread",
+                    "total": "2032"
+                },
+                {
+                    "name": "Hamburger",
+                    "total": "43032"
+                },
+                {
+                    "name": "Cheese",
+                    "total": "03032"
+                },
+                {
+                    "name": "Cake",
+                    "total": "63032"
+                }
+            ]
+        },
+        {
+            "name": "Airbus",
+            "product": [
+                {
+                    "name": "Airbus A380",
+                    "total": "53032"
+                },
+                {
+                    "name": "Airbus A320",
+                    "total": "33032"
+                },
+                {
+                    "name": "Airbus A350",
+                    "total": "73032"
+                },
+                {
+                    "name": "Airbus A330",
+                    "total": "83032"
+                },
+                {
+                    "name": "Airbus A390",
+                    "total": "93032"
+                }
+            ]
+        },
+        {
+            "name": "Helicopters",
+            "product": [
+                {
+                    "name": " Aethon",
+                    "total": "53032"
+                },
+                {
+                    "name": "Inferno",
+                    "total": "23832"
+                },
+                {
+                    "name": "Broxa",
+                    "total": "23732"
+                },
+                {
+                    "name": "Medusa",
+                    "total": "23332"
+                },
+                {
+                    "name": "Hades",
+                    "total": "23032"
+                }
+            ]
+        }
+    ]
+}

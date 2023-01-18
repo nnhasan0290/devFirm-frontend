@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  color: #84878b;
+  line-height: 24px;
+  background-color: #f5f5f5;
+}
+
+.pink-bg{
+ background-color: rgba(243, 106, 106, 0.2);
+ border-radius: 10px;
+}
+
+.gradient-bg{
+  background: linear-gradient(185.44deg, rgba(0, 0, 0, 0) 0.82%, #000000 125.4%)
+}
+
+
+@layer components {
+  .label {
+    @apply font-[600] leading-[27px] text-[18px] text-[#3B3E44] block mb-[14px];
+  }
+  .input{
+    @apply outline-none  border border-[#DCDCDC] h-[60px] rounded-[30px] px-5 ;
+  }
+  .overlay{
+    @apply absolute top-0 left-0 z-20 w-full h-full gradient-bg;
+  }
+}
